@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <item name="homework_obj_id" type="id"/>
+    <string name="double_and_line">min &lt;= hour &amp;&amp; hour &lt;= max</string>
+    <string name="double_quote_line">System.out.println(greeting + &quot;, World!&quot;)</string>
+</resources>
